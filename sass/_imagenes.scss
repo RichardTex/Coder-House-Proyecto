@@ -2,13 +2,13 @@
 
 @for $i from 1 through 10 {
     .item#{$i} {
-        background-image: url(/imagenes/img#{$i}.jpg);
+        background-image: url(../imagenes/img#{$i}.jpg);
     }
 }
 
 @for $i from 1 through 6 {
     .item-#{$i} {
-        background-image: url(/imagenes/img-#{$i}.jpg);
+        background-image: url(../imagenes/img-#{$i}.jpg);
     }
 }
 
