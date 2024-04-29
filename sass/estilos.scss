@@ -1,3 +1,9 @@
+/* Imports*/
+
+@import "./mixins";
+@import "./imagenes";
+@import "./mediaqueris";
+
 *{
     margin: 0;
     padding: 0;
@@ -215,10 +221,3 @@ textarea {
     justify-content: space-between;
     text-align: center;
 }
-
-
-/* Imports*/
-
-@import "../sass/imagenes";
-@import "../sass/mixins";
-@import "../sass/mediaqueris";
