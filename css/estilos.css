@@ -141,8 +141,7 @@ h5 {
 }
 
 .carousel-inner img {
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 .call p {
@@ -403,4 +402,6 @@ textarea {
   .barrafooter {
     bottom: -50px;
   }
-}/*# sourceMappingURL=estilos.css.map */
+}
+
+/*# sourceMappingURL=estilos.css.map */
