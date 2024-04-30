@@ -245,7 +245,7 @@ footer .redes a {
 main {
   height: 100vh;
   width: 100%;
-  background-image: url(/Imagenes/mario-3631666.svg);
+  background-image: url(../imagenes/mario-3631666.svg);
   background-size: cover;
   display: flex;
   justify-content: center;
